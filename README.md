@@ -1,1 +1,2 @@
 # FirstAct
+*Platform_Technologies
